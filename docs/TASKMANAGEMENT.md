@@ -12,7 +12,7 @@ The different stages of a task are as follows:
 
 **Publisher**: Fortinet
 
-**Compatibility**: 7.0.2
+**Compatibility**: 7.0.2 or higher
 
 **Applicable**: View Panel
 
