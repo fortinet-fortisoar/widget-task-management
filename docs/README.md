@@ -18,12 +18,12 @@ The different stages of a task are as follows:
 
 **Task Management Widget**:
 
-<img src="./media/task-management-widget.png" alt="Task Management widget" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-task-management/release/2.0.0/docs/media/task-management-widget.png" alt="Task Management widget" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 </br>
 
 **Task Manager Edit View**:
 
-<img src="./media/task-manager-edit-view.png" alt="Task Manager Edit View" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
+<img src="https://raw.githubusercontent.com/fortinet-fortisoar/widget-task-management/release/2.0.0/docs/media/task-manager-edit-view.png" alt="Task Manager Edit View" style="border: 1px solid #A9A9A9; border-radius: 4px; padding: 10px; display: block; margin-left: auto; margin-right: auto; width: 80%">
 </br>
 
 
